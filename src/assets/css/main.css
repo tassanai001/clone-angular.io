@@ -1,0 +1,16 @@
+@media (max-width: 768px) {
+  .v-text-field.v-text-field--solo.v-input--dense > .v-input__control {
+    min-height: 32px;
+    max-width: 60%;
+  }
+  .v-toolbar__content,
+  .v-toolbar__extension {
+    padding: 4px 5px;
+  }
+}
+
+@media (min-width: 1024px) {
+}
+
+@media (min-width: 1280px) {
+}
